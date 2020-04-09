@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.github.mohem-appium</groupId>
 	<artifactId>mohem-appium</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>Automate Mohem Application</name>
 	<description>Automation code to automate Mohem Application</description>
@@ -36,7 +36,7 @@
 		<connection>scm:git:git://github.com/mohem-appium/mohem-appium.git</connection>
 		<developerConnection>scm:git:git@github.com/mohem-appium/mohem-appium.git</developerConnection>
 		<url>https://github.com/mohem-appium/mohem-appium/tree/master</url>
-		<tag>mohem-appium-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
